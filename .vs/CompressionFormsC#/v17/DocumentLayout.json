@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University Labs\\CompressionFormsC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A942D2FA-59EA-4BFC-A93E-17D3691F2F07}|CompressionFormsC#\\CompressionFormsC#.csproj|D:\\University Labs\\CompressionFormsC#\\compressionformsc#\\lzw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A942D2FA-59EA-4BFC-A93E-17D3691F2F07}|CompressionFormsC#\\CompressionFormsC#.csproj|solutionrelative:compressionformsc#\\lzw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A942D2FA-59EA-4BFC-A93E-17D3691F2F07}|CompressionFormsC#\\CompressionFormsC#.csproj|d:\\university labs\\compressionformsc#\\compressionformsc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A942D2FA-59EA-4BFC-A93E-17D3691F2F07}|CompressionFormsC#\\CompressionFormsC#.csproj|solutionrelative:compressionformsc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A942D2FA-59EA-4BFC-A93E-17D3691F2F07}|CompressionFormsC#\\CompressionFormsC#.csproj|D:\\University Labs\\CompressionFormsC#\\compressionformsc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A942D2FA-59EA-4BFC-A93E-17D3691F2F07}|CompressionFormsC#\\CompressionFormsC#.csproj|solutionrelative:compressionformsc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A942D2FA-59EA-4BFC-A93E-17D3691F2F07}|CompressionFormsC#\\CompressionFormsC#.csproj|D:\\University Labs\\CompressionFormsC#\\compressionformsc#\\lz77.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A942D2FA-59EA-4BFC-A93E-17D3691F2F07}|CompressionFormsC#\\CompressionFormsC#.csproj|solutionrelative:compressionformsc#\\lz77.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A942D2FA-59EA-4BFC-A93E-17D3691F2F07}|CompressionFormsC#\\CompressionFormsC#.csproj|D:\\University Labs\\CompressionFormsC#\\compressionformsc#\\lz78.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A942D2FA-59EA-4BFC-A93E-17D3691F2F07}|CompressionFormsC#\\CompressionFormsC#.csproj|solutionrelative:compressionformsc#\\lz78.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A942D2FA-59EA-4BFC-A93E-17D3691F2F07}|CompressionFormsC#\\CompressionFormsC#.csproj|D:\\University Labs\\CompressionFormsC#\\compressionformsc#\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A942D2FA-59EA-4BFC-A93E-17D3691F2F07}|CompressionFormsC#\\CompressionFormsC#.csproj|solutionrelative:compressionformsc#\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\University Labs\\CompressionFormsC#\\CompressionFormsC#\\Form1.cs",
+              "RelativeDocumentMoniker": "CompressionFormsC#\\Form1.cs",
+              "ToolTip": "D:\\University Labs\\CompressionFormsC#\\CompressionFormsC#\\Form1.cs",
+              "RelativeToolTip": "CompressionFormsC#\\Form1.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAowCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:42:46.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\University Labs\\CompressionFormsC#\\CompressionFormsC#\\Form1.cs",
+              "RelativeDocumentMoniker": "CompressionFormsC#\\Form1.cs",
+              "ToolTip": "D:\\University Labs\\CompressionFormsC#\\CompressionFormsC#\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "CompressionFormsC#\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:40:04.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\University Labs\\CompressionFormsC#\\CompressionFormsC#\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CompressionFormsC#\\Form1.Designer.cs",
+              "ToolTip": "D:\\University Labs\\CompressionFormsC#\\CompressionFormsC#\\Form1.Designer.cs",
+              "RelativeToolTip": "CompressionFormsC#\\Form1.Designer.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAnwEMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:47:37.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LZW.cs",
+              "DocumentMoniker": "D:\\University Labs\\CompressionFormsC#\\CompressionFormsC#\\LZW.cs",
+              "RelativeDocumentMoniker": "CompressionFormsC#\\LZW.cs",
+              "ToolTip": "D:\\University Labs\\CompressionFormsC#\\CompressionFormsC#\\LZW.cs",
+              "RelativeToolTip": "CompressionFormsC#\\LZW.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:46:40.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LZ78.cs",
+              "DocumentMoniker": "D:\\University Labs\\CompressionFormsC#\\CompressionFormsC#\\LZ78.cs",
+              "RelativeDocumentMoniker": "CompressionFormsC#\\LZ78.cs",
+              "ToolTip": "D:\\University Labs\\CompressionFormsC#\\CompressionFormsC#\\LZ78.cs",
+              "RelativeToolTip": "CompressionFormsC#\\LZ78.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowC8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:31:23.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LZ77.cs",
+              "DocumentMoniker": "D:\\University Labs\\CompressionFormsC#\\CompressionFormsC#\\LZ77.cs",
+              "RelativeDocumentMoniker": "CompressionFormsC#\\LZ77.cs",
+              "ToolTip": "D:\\University Labs\\CompressionFormsC#\\CompressionFormsC#\\LZ77.cs",
+              "RelativeToolTip": "CompressionFormsC#\\LZ77.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwBcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:53:26.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

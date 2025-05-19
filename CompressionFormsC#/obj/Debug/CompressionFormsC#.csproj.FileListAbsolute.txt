@@ -1,0 +1,10 @@
+D:\University Labs\CompressionFormsC#\CompressionFormsC#\bin\Debug\CompressionFormsC#.exe.config
+D:\University Labs\CompressionFormsC#\CompressionFormsC#\bin\Debug\CompressionFormsC#.exe
+D:\University Labs\CompressionFormsC#\CompressionFormsC#\bin\Debug\CompressionFormsC#.pdb
+D:\University Labs\CompressionFormsC#\CompressionFormsC#\obj\Debug\CompressionFormsC#.csproj.AssemblyReference.cache
+D:\University Labs\CompressionFormsC#\CompressionFormsC#\obj\Debug\CompressionFormsC_.Form1.resources
+D:\University Labs\CompressionFormsC#\CompressionFormsC#\obj\Debug\CompressionFormsC_.Properties.Resources.resources
+D:\University Labs\CompressionFormsC#\CompressionFormsC#\obj\Debug\CompressionFormsC#.csproj.GenerateResource.cache
+D:\University Labs\CompressionFormsC#\CompressionFormsC#\obj\Debug\CompressionFormsC#.csproj.CoreCompileInputs.cache
+D:\University Labs\CompressionFormsC#\CompressionFormsC#\obj\Debug\CompressionFormsC#.exe
+D:\University Labs\CompressionFormsC#\CompressionFormsC#\obj\Debug\CompressionFormsC#.pdb
